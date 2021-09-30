@@ -12,6 +12,6 @@ allprojects {
   > Step 2. Add the dependency
   ```
 dependencies {
-	implementation 'com.github.gprachan:android-common-lib:Tag'
+		implementation 'com.github.gprachan:android-common-lib:Tag'
 }
   ```
