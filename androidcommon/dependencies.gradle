@@ -1,0 +1,7 @@
+ext {
+    versions = [
+            glideImage: '4.12.0',
+            retrofit  : '2.9.0',
+            timber  : '5.0.1',
+    ]
+}
