@@ -1,9 +1,9 @@
-package git.prg.androidcommon.handler
+package git.gprachan.androidcommon.handler
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import git.gprachan.androidcommon.base.BaseErrorEntity
-import git.prg.androidcommon.utils.UiState
+import git.gprachan.androidcommon.utils.UiState
 import retrofit2.Response
 
 /**

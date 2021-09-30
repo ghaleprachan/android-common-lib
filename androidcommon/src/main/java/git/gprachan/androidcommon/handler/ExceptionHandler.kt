@@ -1,6 +1,6 @@
-package git.prg.androidcommon.handler
+package git.gprachan.androidcommon.handler
 
-import git.prg.androidcommon.utils.UiState
+import git.gprachan.androidcommon.utils.UiState
 import org.json.JSONObject
 import retrofit2.HttpException
 import java.net.SocketTimeoutException

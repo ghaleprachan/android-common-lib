@@ -1,4 +1,4 @@
-package git.prg.androidcommon.utils
+package git.gprachan.androidcommon.utils
 
 sealed class UiState<T>(
     val data: T? = null,
